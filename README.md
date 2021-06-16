@@ -1,5 +1,5 @@
-# Cross-Domain-DL-IDS
-Cross-Domain Hybrid Learning-based Intrusion Detection System Framework
+# Hybrid-Learning-DL-IDS
+A hybrid Learning-based Intrusion Detection System Framework
 
 # Requirement
     jupyterlab>=2.2.4
